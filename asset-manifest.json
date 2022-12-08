@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Iia_Wolak_React_Portfolio/static/css/main.cdd166ce.css",
+    "main.js": "/Iia_Wolak_React_Portfolio/static/js/main.224ff205.js",
+    "static/js/787.fc178a5c.chunk.js": "/Iia_Wolak_React_Portfolio/static/js/787.fc178a5c.chunk.js",
+    "static/media/novelsips.png": "/Iia_Wolak_React_Portfolio/static/media/novelsips.4a1c3073f37242eb54f4.png",
+    "index.html": "/Iia_Wolak_React_Portfolio/index.html",
+    "main.cdd166ce.css.map": "/Iia_Wolak_React_Portfolio/static/css/main.cdd166ce.css.map",
+    "main.224ff205.js.map": "/Iia_Wolak_React_Portfolio/static/js/main.224ff205.js.map",
+    "787.fc178a5c.chunk.js.map": "/Iia_Wolak_React_Portfolio/static/js/787.fc178a5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdd166ce.css",
+    "static/js/main.224ff205.js"
+  ]
+}
