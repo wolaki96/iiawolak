@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Iia_Wolak_React_Portfolio/static/css/main.ab76dc0c.css",
+    "main.css": "/Iia_Wolak_React_Portfolio/static/css/main.cdbb00ec.css",
     "main.js": "/Iia_Wolak_React_Portfolio/static/js/main.1d8b7831.js",
     "static/js/787.fc178a5c.chunk.js": "/Iia_Wolak_React_Portfolio/static/js/787.fc178a5c.chunk.js",
     "static/media/haunted.png": "/Iia_Wolak_React_Portfolio/static/media/haunted.4667b3cb20a0c3842ab8.png",
@@ -13,12 +13,12 @@
     "static/media/password.PNG": "/Iia_Wolak_React_Portfolio/static/media/password.a1f60155e2537d5f09a1.PNG",
     "static/media/jate1.PNG": "/Iia_Wolak_React_Portfolio/static/media/jate1.5096d4c156a0fe34b6c6.PNG",
     "index.html": "/Iia_Wolak_React_Portfolio/index.html",
-    "main.ab76dc0c.css.map": "/Iia_Wolak_React_Portfolio/static/css/main.ab76dc0c.css.map",
+    "main.cdbb00ec.css.map": "/Iia_Wolak_React_Portfolio/static/css/main.cdbb00ec.css.map",
     "main.1d8b7831.js.map": "/Iia_Wolak_React_Portfolio/static/js/main.1d8b7831.js.map",
     "787.fc178a5c.chunk.js.map": "/Iia_Wolak_React_Portfolio/static/js/787.fc178a5c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab76dc0c.css",
+    "static/css/main.cdbb00ec.css",
     "static/js/main.1d8b7831.js"
   ]
 }
