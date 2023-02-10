@@ -4,7 +4,7 @@ import School from './pages/school';
 import ImageAndTextExample from './pages/about';
 import Portfolio from './pages/Portfolio';
 import Footer from './pages/footer';
-import About from './pages/about'
+
 
 
 export default function PortfolioContainer() {
