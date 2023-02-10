@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Iia_Wolak_React_Portfolio/static/css/main.cdbb00ec.css",
-    "main.js": "/Iia_Wolak_React_Portfolio/static/js/main.1d8b7831.js",
-    "static/js/787.fc178a5c.chunk.js": "/Iia_Wolak_React_Portfolio/static/js/787.fc178a5c.chunk.js",
-    "static/media/haunted.png": "/Iia_Wolak_React_Portfolio/static/media/haunted.4667b3cb20a0c3842ab8.png",
-    "static/media/Homepage.png": "/Iia_Wolak_React_Portfolio/static/media/Homepage.db85cc561b8506674bd1.png",
-    "static/media/iiaw.PNG": "/Iia_Wolak_React_Portfolio/static/media/iiaw.58dffe78f67837555325.PNG",
-    "static/media/iiawolak.pdf": "/Iia_Wolak_React_Portfolio/static/media/iiawolak.8b64cf61112ad03b2f80.pdf",
-    "static/media/schedule.png": "/Iia_Wolak_React_Portfolio/static/media/schedule.73fd9f3384ca471236e9.png",
-    "static/media/inventory.PNG": "/Iia_Wolak_React_Portfolio/static/media/inventory.768485cd7173a1ee67b9.PNG",
-    "static/media/lights.jpg": "/Iia_Wolak_React_Portfolio/static/media/lights.966729b2bbd1ef675c22.jpg",
-    "static/media/password.PNG": "/Iia_Wolak_React_Portfolio/static/media/password.a1f60155e2537d5f09a1.PNG",
-    "static/media/jate1.PNG": "/Iia_Wolak_React_Portfolio/static/media/jate1.5096d4c156a0fe34b6c6.PNG",
-    "index.html": "/Iia_Wolak_React_Portfolio/index.html",
-    "main.cdbb00ec.css.map": "/Iia_Wolak_React_Portfolio/static/css/main.cdbb00ec.css.map",
-    "main.1d8b7831.js.map": "/Iia_Wolak_React_Portfolio/static/js/main.1d8b7831.js.map",
-    "787.fc178a5c.chunk.js.map": "/Iia_Wolak_React_Portfolio/static/js/787.fc178a5c.chunk.js.map"
+    "main.css": "/iiawolak/static/css/main.0a3edb88.css",
+    "main.js": "/iiawolak/static/js/main.372629a5.js",
+    "static/js/787.fc178a5c.chunk.js": "/iiawolak/static/js/787.fc178a5c.chunk.js",
+    "static/media/haunted.png": "/iiawolak/static/media/haunted.4667b3cb20a0c3842ab8.png",
+    "static/media/Homepage.png": "/iiawolak/static/media/Homepage.db85cc561b8506674bd1.png",
+    "static/media/iiaw.PNG": "/iiawolak/static/media/iiaw.58dffe78f67837555325.PNG",
+    "static/media/iiawolak.pdf": "/iiawolak/static/media/iiawolak.8b64cf61112ad03b2f80.pdf",
+    "static/media/schedule.png": "/iiawolak/static/media/schedule.73fd9f3384ca471236e9.png",
+    "static/media/inventory.PNG": "/iiawolak/static/media/inventory.768485cd7173a1ee67b9.PNG",
+    "static/media/lights.jpg": "/iiawolak/static/media/lights.966729b2bbd1ef675c22.jpg",
+    "static/media/password.PNG": "/iiawolak/static/media/password.a1f60155e2537d5f09a1.PNG",
+    "static/media/jate1.PNG": "/iiawolak/static/media/jate1.5096d4c156a0fe34b6c6.PNG",
+    "index.html": "/iiawolak/index.html",
+    "main.0a3edb88.css.map": "/iiawolak/static/css/main.0a3edb88.css.map",
+    "main.372629a5.js.map": "/iiawolak/static/js/main.372629a5.js.map",
+    "787.fc178a5c.chunk.js.map": "/iiawolak/static/js/787.fc178a5c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdbb00ec.css",
-    "static/js/main.1d8b7831.js"
+    "static/css/main.0a3edb88.css",
+    "static/js/main.372629a5.js"
   ]
 }
